@@ -1,5 +1,6 @@
 package svg.altencodejob.application;
 
+import org.springframework.stereotype.Service;
 import svg.altencodejob.domain.Price;
 import svg.altencodejob.infra.ports.output.PricesRepository;
 import svg.altencodejob.infra.ports.input.PricesInputPort;
@@ -8,7 +9,7 @@ import java.sql.Timestamp;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
-
+@Service
 public class PriceService implements PricesInputPort {
 
     PricesRepository pricesRepository;
