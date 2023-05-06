@@ -1,4 +1,4 @@
-package svg.altencodejob.infra.adapters;
+package svg.altencodejob.infra.adapters.input;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

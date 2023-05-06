@@ -1,4 +1,4 @@
-package svg.altencodejob.infra.adapters.ports.output;
+package svg.altencodejob.infra.ports.output;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
