@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b145f52-b05a-4b7f-8e63-eb294b505826" name="Changes" comment="" />
+    <list default="true" id="4b145f52-b05a-4b7f-8e63-eb294b505826" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/svg/altencodejob/infra/adapters/PricesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/svg/altencodejob/AltenCodeJobAssessment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/svg/altencodejob/AltenCodeJobAssessment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683385392270</updated>
-      <workItem from="1683385394192" duration="1336000" />
+      <workItem from="1683385394192" duration="1888000" />
     </task>
     <servers />
   </component>
