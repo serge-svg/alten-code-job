@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:prices
+    username: sa
+    password:
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+  h2:
+    console:
+      enabled: true
+  sql:
+    init:
+      data-locations: classpath:data.sql
+      mode: always
+logging:
+  level:
+    org.hibernate.SQL: INFO
+    org.hibernate.type: INFO
