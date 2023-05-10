@@ -21,7 +21,7 @@ These additional references should also help you:
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
 ## OpenAPI - Swagger-ui
-* http://localhost:8080/swagger-ui/index.html#/
+* http://localhost:8080/swagger-ui/index.html
 
 
 ## API calls examples
